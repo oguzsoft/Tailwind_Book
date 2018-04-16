@@ -18,5 +18,5 @@ You can visit Tailwind's [website](https://tailwindcss.com/docs/what-is-tailwind
 </body>
 </html>
 ```
-**_### Change Background color without CSS_** 
+### **_Change Background color without CSS_** 
 ![Deneme](pictures_and_gifs/backgroundColor.gif)
