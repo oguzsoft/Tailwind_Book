@@ -19,4 +19,4 @@ You can visit Tailwind's [website](https://tailwindcss.com/docs/what-is-tailwind
 </html>
 ```
 **_### Change Background color without CSS_** 
-[![image](http://i.hizliresim.com/jyoP29.gif)](http://hizliresim.com/jyoP29)
+[![image](http://i.hizliresim.com/jyoP29.gif)]
