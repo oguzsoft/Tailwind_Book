@@ -1,11 +1,11 @@
-###1.What is Tailwind
+###1. What is Tailwind
 You can visit Tailwind's [website](https://tailwindcss.com/docs/what-is-tailwind)
 
-###2.Installion 
+###2. Installion 
 * Create a _index.html_ file and html tags(html,head,body)
 * Open _index.html_ file
 * Copy to ```<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">``` and paste into head tag in the index.html 
->Installion is that simple
+>Installion is that simple.
 >Latest version of your file
 ```
 <!DOCTYPE html>
@@ -19,5 +19,3 @@ You can visit Tailwind's [website](https://tailwindcss.com/docs/what-is-tailwind
 </body>
 </html>
 ```
-
-# Tailwind_Book
